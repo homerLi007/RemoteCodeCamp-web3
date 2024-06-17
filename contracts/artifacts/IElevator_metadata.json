@@ -1,0 +1,54 @@
+{
+	"compiler": {
+		"version": "0.6.0+commit.26b70077"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_floor",
+						"type": "uint256"
+					}
+				],
+				"name": "goTo",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/MyBuilding.sol": "IElevator"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/MyBuilding.sol": {
+			"keccak256": "0x4c0f58a21f55780aac595fe05bbdbf9da8e019dc08efc8ab8e1ccfbb6d03b568",
+			"urls": [
+				"bzz-raw://286fb558e9b7be9949cc162e2e53493857c99f530b1fdc6d51b9311d0410557e",
+				"dweb:/ipfs/QmScaE8kATx428ZB7fB3UffjN1YxNM98eyEJ6KdKpvDvd4"
+			]
+		}
+	},
+	"version": 1
+}

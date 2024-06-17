@@ -1,0 +1,54 @@
+{
+	"compiler": {
+		"version": "0.6.0+commit.26b70077"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address payable",
+						"name": "_to",
+						"type": "address"
+					}
+				],
+				"name": "claimKingship",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ForeverKing.sol": "ForeverKing"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ForeverKing.sol": {
+			"keccak256": "0x661e0f944f019640b15514123cb46289b83d6ddee82717be90c5b8701dfe6612",
+			"urls": [
+				"bzz-raw://9dcfe15fb519c7cc9890e8c4b390aca136c5f99b6f199eddaa62f6fcc52de4be",
+				"dweb:/ipfs/QmdaAS5NyXQepjX6jr17YS4U1W4kdp3jVaQGskCouKorfa"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.0+commit.26b70077"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"stateMutability": "payable",
+				"type": "receive"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/GasBurner.sol": "GasBurner"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/GasBurner.sol": {
+			"keccak256": "0x3b7f725674e583747690be107789ec7d19cd69ad678dedb8cb57f8733bb552ca",
+			"urls": [
+				"bzz-raw://74396105bdaea4db5b5e60434ea625400d338b16da734b497e7e652f2b49c1af",
+				"dweb:/ipfs/QmZPUofum1ec8fyRCtWPffKUEqDBFaaTz5Ctz6seNqspx5"
+			]
+		}
+	},
+	"version": 1
+}

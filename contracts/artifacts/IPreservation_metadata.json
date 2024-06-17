@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "setFirstTime",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Hack16.sol": "IPreservation"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Hack16.sol": {
+			"keccak256": "0x21fde3dd5ebf7a4c5fd61b946941c5a570ed5e0892ba8bf351f3d864f33530a8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8bd6a9c8167746ca8a4eedf6f49081901295a145d0a3a9af0e173e318f092bcc",
+				"dweb:/ipfs/Qma9Djj6wBTprLNZ9WgcThYHbohLSydAex5jjs1mdoei6f"
+			]
+		}
+	},
+	"version": 1
+}

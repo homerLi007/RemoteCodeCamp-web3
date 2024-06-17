@@ -1,0 +1,67 @@
+{
+	"compiler": {
+		"version": "0.6.0+commit.26b70077"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_shopAddr",
+						"type": "address"
+					}
+				],
+				"name": "buyFromShop",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "price",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/artifacts/Buyer.sol": "Buyer"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/artifacts/Buyer.sol": {
+			"keccak256": "0x12c4ebabe576a6685720bd26a0ec33fa6a63c2a5b568219fc3715e48f938bbcc",
+			"urls": [
+				"bzz-raw://a70499fbacbea654ee134b481474f0a0392aa437a78b28c4b376311e0657b0e2",
+				"dweb:/ipfs/QmZCciwMVftG3RbwyJYzhtnW1wF65esn82YcC4CmFwkCHp"
+			]
+		}
+	},
+	"version": 1
+}

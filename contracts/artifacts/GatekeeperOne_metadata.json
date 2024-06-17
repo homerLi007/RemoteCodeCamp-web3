@@ -1,0 +1,73 @@
+{
+	"compiler": {
+		"version": "0.6.0+commit.26b70077"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "bytes8",
+						"name": "_gateKey",
+						"type": "bytes8"
+					}
+				],
+				"name": "enter",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "entrant",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/GatekeeperOne.sol": "GatekeeperOne"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/GatekeeperOne.sol": {
+			"keccak256": "0x836c7877e57a6745a2fa0a18895e35550bce83990b24ee511ee4727b4aa7f534",
+			"urls": [
+				"bzz-raw://09ba5671ed7f34b3ad5ba6028c172a34b72b4237f197eea3d4b0b388eccf859f",
+				"dweb:/ipfs/Qmd9KwXQw9CgTt5K6u1rewS514KDGrg3QE47NxsoLDegiQ"
+			]
+		}
+	},
+	"version": 1
+}

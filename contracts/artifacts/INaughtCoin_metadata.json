@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "player",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Hack.sol": "INaughtCoin"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Hack.sol": {
+			"keccak256": "0xb206b4182c772f6269eb6d05e67b0390ffd1078c0f1d2ce2cf5bb1485cb06487",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6e7520480e26d1d167972773674fe89568b5d207accd80260099e4339d9f8c99",
+				"dweb:/ipfs/QmagiGvXhwLJYVxwryzpX6gAeEWvcGD9fUb7k5CJVHnj6R"
+			]
+		}
+	},
+	"version": 1
+}

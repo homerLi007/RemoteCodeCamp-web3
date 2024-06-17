@@ -1,0 +1,225 @@
+{
+  "accounts": {
+    "account{-1}": "0x9ca728325b7d447e190d5fbae3ac923ac9cf895f",
+    "account{0}": "0x9Ca728325b7d447E190d5FBAE3ac923AC9CF895f"
+  },
+  "linkReferences": {},
+  "transactions": [
+    {
+      "timestamp": 1717848438437,
+      "record": {
+        "value": "0",
+        "inputs": "()",
+        "parameters": [],
+        "name": "",
+        "type": "constructor",
+        "abi": "0xd5a46cff762ec4cec6593c626f423b4f78b32b5acea08a57e85827d5c27816c5",
+        "contractName": "CoinFlipGuess",
+        "bytecode": "60806040525f80557f80000000000000000000000000000000000000000000000000000000000000006002553480156035575f80fd5b50610405806100435f395ff3fe608060405234801561000f575f80fd5b5060043610610034575f3560e01c8063c9f71c5b14610038578063e6f334d714610068575b5f80fd5b610052600480360381019061004d91906101e7565b610086565b60405161005f919061022a565b60405180910390f35b610070610184565b60405161007d919061022a565b60405180910390f35b5f806001436100959190610270565b405f1c905080600154036100a7575f80fd5b806001819055505f600254826100bd91906102d0565b90505f600182146100ce575f6100d1565b60015b90505f8573ffffffffffffffffffffffffffffffffffffffff16631d263f67836040518263ffffffff1660e01b815260040161010d919061031a565b6020604051808303815f875af1158015610129573d5f803e3d5ffd5b505050506040513d601f19601f8201168201806040525081019061014d919061035d565b90508015610170575f8081548092919061016690610388565b9190505550610177565b5f80819055505b5f54945050505050919050565b5f5481565b5f80fd5b5f73ffffffffffffffffffffffffffffffffffffffff82169050919050565b5f6101b68261018d565b9050919050565b6101c6816101ac565b81146101d0575f80fd5b50565b5f813590506101e1816101bd565b92915050565b5f602082840312156101fc576101fb610189565b5b5f610209848285016101d3565b91505092915050565b5f819050919050565b61022481610212565b82525050565b5f60208201905061023d5f83018461021b565b92915050565b7f4e487b71000000000000000000000000000000000000000000000000000000005f52601160045260245ffd5b5f61027a82610212565b915061028583610212565b925082820390508181111561029d5761029c610243565b5b92915050565b7f4e487b71000000000000000000000000000000000000000000000000000000005f52601260045260245ffd5b5f6102da82610212565b91506102e583610212565b9250826102f5576102f46102a3565b5b828204905092915050565b5f8115159050919050565b61031481610300565b82525050565b5f60208201905061032d5f83018461030b565b92915050565b61033c81610300565b8114610346575f80fd5b50565b5f8151905061035781610333565b92915050565b5f6020828403121561037257610371610189565b5b5f61037f84828501610349565b91505092915050565b5f61039282610212565b91507fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff82036103c4576103c3610243565b5b60018201905091905056fea2646970667358221220636759edfc12c237f6d0a6cd4dd55b05b56c6a670b59f37bbd114058349ebc7b64736f6c634300081a0033",
+        "linkReferences": {},
+        "from": "account{-1}"
+      }
+    },
+    {
+      "timestamp": 1717848498237,
+      "record": {
+        "value": "0",
+        "inputs": "()",
+        "parameters": [],
+        "name": "",
+        "type": "constructor",
+        "abi": "0xd5a46cff762ec4cec6593c626f423b4f78b32b5acea08a57e85827d5c27816c5",
+        "contractName": "CoinFlipGuess",
+        "bytecode": "60806040525f80557f80000000000000000000000000000000000000000000000000000000000000006002553480156035575f80fd5b50610405806100435f395ff3fe608060405234801561000f575f80fd5b5060043610610034575f3560e01c8063c9f71c5b14610038578063e6f334d714610068575b5f80fd5b610052600480360381019061004d91906101e7565b610086565b60405161005f919061022a565b60405180910390f35b610070610184565b60405161007d919061022a565b60405180910390f35b5f806001436100959190610270565b405f1c905080600154036100a7575f80fd5b806001819055505f600254826100bd91906102d0565b90505f600182146100ce575f6100d1565b60015b90505f8573ffffffffffffffffffffffffffffffffffffffff16631d263f67836040518263ffffffff1660e01b815260040161010d919061031a565b6020604051808303815f875af1158015610129573d5f803e3d5ffd5b505050506040513d601f19601f8201168201806040525081019061014d919061035d565b90508015610170575f8081548092919061016690610388565b9190505550610177565b5f80819055505b5f54945050505050919050565b5f5481565b5f80fd5b5f73ffffffffffffffffffffffffffffffffffffffff82169050919050565b5f6101b68261018d565b9050919050565b6101c6816101ac565b81146101d0575f80fd5b50565b5f813590506101e1816101bd565b92915050565b5f602082840312156101fc576101fb610189565b5b5f610209848285016101d3565b91505092915050565b5f819050919050565b61022481610212565b82525050565b5f60208201905061023d5f83018461021b565b92915050565b7f4e487b71000000000000000000000000000000000000000000000000000000005f52601160045260245ffd5b5f61027a82610212565b915061028583610212565b925082820390508181111561029d5761029c610243565b5b92915050565b7f4e487b71000000000000000000000000000000000000000000000000000000005f52601260045260245ffd5b5f6102da82610212565b91506102e583610212565b9250826102f5576102f46102a3565b5b828204905092915050565b5f8115159050919050565b61031481610300565b82525050565b5f60208201905061032d5f83018461030b565b92915050565b61033c81610300565b8114610346575f80fd5b50565b5f8151905061035781610333565b92915050565b5f6020828403121561037257610371610189565b5b5f61037f84828501610349565b91505092915050565b5f61039282610212565b91507fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff82036103c4576103c3610243565b5b60018201905091905056fea2646970667358221220636759edfc12c237f6d0a6cd4dd55b05b56c6a670b59f37bbd114058349ebc7b64736f6c634300081a0033",
+        "linkReferences": {},
+        "from": "account{-1}"
+      }
+    },
+    {
+      "timestamp": 1717848657625,
+      "record": {
+        "value": "0",
+        "inputs": "(address)",
+        "parameters": [
+          "0xebff65B75270F288c6b13CC645970D46D4Df15Cd"
+        ],
+        "name": "coinFlipGuess",
+        "type": "function",
+        "to": "created{1717848438437}",
+        "abi": "0xd5a46cff762ec4cec6593c626f423b4f78b32b5acea08a57e85827d5c27816c5",
+        "from": "account{0}"
+      }
+    },
+    {
+      "timestamp": 1717848820255,
+      "record": {
+        "value": "0",
+        "inputs": "(address)",
+        "parameters": [
+          "0xebff65B75270F288c6b13CC645970D46D4Df15Cd"
+        ],
+        "name": "coinFlipGuess",
+        "type": "function",
+        "to": "created{1717848438437}",
+        "abi": "0xd5a46cff762ec4cec6593c626f423b4f78b32b5acea08a57e85827d5c27816c5",
+        "from": "account{0}"
+      }
+    },
+    {
+      "timestamp": 1717849124403,
+      "record": {
+        "value": "0",
+        "inputs": "(address)",
+        "parameters": [
+          "0xebff65B75270F288c6b13CC645970D46D4Df15Cd"
+        ],
+        "name": "coinFlipGuess",
+        "type": "function",
+        "to": "created{1717848438437}",
+        "abi": "0xd5a46cff762ec4cec6593c626f423b4f78b32b5acea08a57e85827d5c27816c5",
+        "from": "account{0}"
+      }
+    },
+    {
+      "timestamp": 1717886714031,
+      "record": {
+        "value": "0",
+        "inputs": "(address)",
+        "parameters": [
+          "0xebff65B75270F288c6b13CC645970D46D4Df15Cd"
+        ],
+        "name": "coinFlipGuess",
+        "type": "function",
+        "to": "created{1717848438437}",
+        "abi": "0xd5a46cff762ec4cec6593c626f423b4f78b32b5acea08a57e85827d5c27816c5",
+        "from": "account{0}"
+      }
+    },
+    {
+      "timestamp": 1717886887717,
+      "record": {
+        "value": "0",
+        "inputs": "(address)",
+        "parameters": [
+          "0xebff65B75270F288c6b13CC645970D46D4Df15Cd"
+        ],
+        "name": "coinFlipGuess",
+        "type": "function",
+        "to": "created{1717848438437}",
+        "abi": "0xd5a46cff762ec4cec6593c626f423b4f78b32b5acea08a57e85827d5c27816c5",
+        "from": "account{0}"
+      }
+    },
+    {
+      "timestamp": 1717887079304,
+      "record": {
+        "value": "0",
+        "inputs": "(address)",
+        "parameters": [
+          "0xebff65B75270F288c6b13CC645970D46D4Df15Cd"
+        ],
+        "name": "coinFlipGuess",
+        "type": "function",
+        "to": "created{1717848438437}",
+        "abi": "0xd5a46cff762ec4cec6593c626f423b4f78b32b5acea08a57e85827d5c27816c5",
+        "from": "account{0}"
+      }
+    },
+    {
+      "timestamp": 1717887131636,
+      "record": {
+        "value": "0",
+        "inputs": "(address)",
+        "parameters": [
+          "0xebff65B75270F288c6b13CC645970D46D4Df15Cd"
+        ],
+        "name": "coinFlipGuess",
+        "type": "function",
+        "to": "created{1717848438437}",
+        "abi": "0xd5a46cff762ec4cec6593c626f423b4f78b32b5acea08a57e85827d5c27816c5",
+        "from": "account{0}"
+      }
+    },
+    {
+      "timestamp": 1717887212803,
+      "record": {
+        "value": "0",
+        "inputs": "(address)",
+        "parameters": [
+          "0xebff65B75270F288c6b13CC645970D46D4Df15Cd"
+        ],
+        "name": "coinFlipGuess",
+        "type": "function",
+        "to": "created{1717848438437}",
+        "abi": "0xd5a46cff762ec4cec6593c626f423b4f78b32b5acea08a57e85827d5c27816c5",
+        "from": "account{0}"
+      }
+    },
+    {
+      "timestamp": 1717887264542,
+      "record": {
+        "value": "0",
+        "inputs": "(address)",
+        "parameters": [
+          "0xebff65B75270F288c6b13CC645970D46D4Df15Cd"
+        ],
+        "name": "coinFlipGuess",
+        "type": "function",
+        "to": "created{1717848438437}",
+        "abi": "0xd5a46cff762ec4cec6593c626f423b4f78b32b5acea08a57e85827d5c27816c5",
+        "from": "account{0}"
+      }
+    },
+    {
+      "timestamp": 1717887362852,
+      "record": {
+        "value": "0",
+        "inputs": "(address)",
+        "parameters": [
+          "0xebff65B75270F288c6b13CC645970D46D4Df15Cd"
+        ],
+        "name": "coinFlipGuess",
+        "type": "function",
+        "to": "created{1717848438437}",
+        "abi": "0xd5a46cff762ec4cec6593c626f423b4f78b32b5acea08a57e85827d5c27816c5",
+        "from": "account{0}"
+      }
+    }
+  ],
+  "abis": {
+    "0xd5a46cff762ec4cec6593c626f423b4f78b32b5acea08a57e85827d5c27816c5": [
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "_coinFlipAddr",
+            "type": "address"
+          }
+        ],
+        "name": "coinFlipGuess",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "consecutiveWins",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      }
+    ]
+  }
+}

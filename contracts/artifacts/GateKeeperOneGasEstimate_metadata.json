@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.6.0+commit.26b70077"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_gateAddr",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_gas",
+						"type": "uint256"
+					}
+				],
+				"name": "enterGate",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/GateKeeperOneGasEstimate.sol": "GateKeeperOneGasEstimate"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/GateKeeperOneGasEstimate.sol": {
+			"keccak256": "0x8b33d6e661219152923053ac1d521b7366af0b3055d481c2b27169fa5420494e",
+			"urls": [
+				"bzz-raw://a977aebfd1fbff1ac691e47f7cabec636891d8b5c4e2519fdf30eb8f0ec3a0e8",
+				"dweb:/ipfs/QmQdTR9FuU9NAcGsj3QYAxZsJsnMqUWzyEAhf9J6oW3ckM"
+			]
+		}
+	},
+	"version": 1
+}
